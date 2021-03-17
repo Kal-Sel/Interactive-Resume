@@ -11,9 +11,9 @@ There are of course countless possibilities how you can design your Excel docume
 
 ### Modelling 
 After creating the `.xlsx` file, I was ready to upload it as a excel file to Power BI.  
-The next step is to either *load* the dataset. After that, we go to the [data]() section, so we can, for example, change our URLs to the data type `Web Url` as shown in [this Screenshot]().  
+The next step is to *load* the dataset. After that, we go to the [data]() section, so we can for example, change our URLs to the data type `Web Url` as shown in [this Screenshot]().  
 After the additional data cleaning, your creativity has no limits - experiment with charts, with the layout, create report tooltips...  
 
 ### Result  
-For now, my interactive resume looks like [this](). This isn't even the final form 😁, but I can imagine something similar to this being a possibility one day in the application process.    
+For now, my interactive resume looks like [this](https://app.powerbi.com/view?r=eyJrIjoiMjI1MTI3YzMtOWE5Ny00NTFmLTljNGMtMzE4ODk2ZTM1M2UyIiwidCI6IjdlMWM0MDhjLTkyNDItNDcyYS05NmI4LWQzZjczZWQzYWQyZiJ9&pageName=ReportSection). This isn't even the final form 😁, but I can imagine something similar to this being a possibility one day in the application process.    
  
